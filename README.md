@@ -1,6 +1,6 @@
 # Dengue Fever Prediction
 
-Dengue viruses are spread to people through the bite of an infected Aedes species (Ae. aegypti or Ae. albopictus) mosquito. Dengue is common in more than 100 countries around the world. Forty percent of the world’s population, about 3 billion people, live in areas with a risk of dengue. Dengue is often a leading cause of illness in these areas. Can we predict when the virus will spread?
+Dengue viruses are spread to people through the bite of an infected Aedes species (Ae. aegypti or Ae. albopictus) mosquito. Dengue is common in more than 100 countries around the world. Forty percent of the world’s population, about 3 billion people, live in areas with a risk of dengue. Dengue is often a leading cause of illness in these areas. Can we predict when the virus will spread
 
 # Medium Article Link: 
 [Medium Link](https://medium.com/@jackross210/dengue-fever-prediction-b5a5760ad801 "HERE")
