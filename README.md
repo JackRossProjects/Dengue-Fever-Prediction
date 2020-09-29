@@ -61,6 +61,6 @@ Reach out to me at one of the following places!
 - Copyright 2020 © <a href="http://jackrossprojects.com" target="_blank">Jack Ross Projects</a>.
 
 
-## Thanks for reading!
+## Thanks for reading!!
 
 <a href="http://jackrossprojects.com"><img src="https://github.com/JackRossProjects/Traffic-Fatality-Analysis/blob/master/jrp.png" title="Jack Ross Projects" alt="Jack Ross Projects"></a>
